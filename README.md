@@ -2,22 +2,22 @@
 
 ## Introduction
 
-The Student Learning Portal is an educational project that helps students access learning resources and improve their programming skills.
+Student Learning Portal is a simple project made to help students learn programming and find study materials.
 
-## About the Project
+## About Project
 
-The project is **easy to use**, *helpful for students*, and ~~difficult to navigate~~.
+This project is made for students who want to learn new things and improve their coding skills.
 
 **Author:** Tanmay
 
-**Purpose:** To help students access educational resources and learn programming.
+**Purpose:** To help students learn programming easily.
 
 ## Features
 
-- Educational resources
+- Study materials
 - Programming tutorials
-- Student-friendly interface
-- Learning materials
+- Easy to use
+- Learning resources for students
 
 ## Technologies Used
 
@@ -28,19 +28,19 @@ The project is **easy to use**, *helpful for students*, and ~~difficult to navig
 
 ## Python Resource
 
-Learn Python here: [Python.org](https://www.python.org/)
+You can learn Python from here: [Python.org](https://www.python.org/)
 
-## Educational Image
+## Image
 
-![Students learning together](https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=800)
+![Students learning](https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=800)
 
 ## Project Details
 
-| Project Name | Programming Language | Category | Level |
+| Project Name | Language | Category | Level |
 |---|---|---|---|
-| Student Learning Portal | HTML, CSS, JavaScript, Python | Education | Beginner |
+| Student Learning Portal | HTML, CSS, JS, Python | Education | Beginner |
 
-## HTML Code Example
+## HTML Example
 
 ```html
 <!DOCTYPE html>
@@ -55,14 +55,8 @@ Learn Python here: [Python.org](https://www.python.org/)
 </html>
 ```
 
-## Learning Quote
-
-> "The beautiful thing about learning is that nobody can take it away from you." — B.B. King
-
----
-
 ## Conclusion
 
-The Student Learning Portal is a beginner-friendly educational project that demonstrates Markdown formatting and introduces basic web development technologies.
+This is a beginner-level project which helps students learn about programming and web development. I have also used Markdown to make this README file.
 
 **GitHub Repository:** [Student Learning Portal](https://github.com/Tanmay337/Student-Learning-Portal)
