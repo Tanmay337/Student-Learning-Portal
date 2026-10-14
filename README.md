@@ -2,22 +2,22 @@
 
 ## Introduction
 
-Student Learning Portal is a simple project made to help students learn programming and find study materials.
+Student Learning Portal is a simple project made to help students learn programming and find study materials easily.
 
 ## About Project
 
-This project is made for students who want to learn new things and improve their coding skills.
+I made this project for students who want to learn programming and improve their coding skills. It provides some useful learning resources in one place.
 
 **Author:** Tanmay
 
-**Purpose:** To help students learn programming easily.
+**Purpose:** To help students learn programming in an easy way.
 
 ## Features
 
 - Study materials
 - Programming tutorials
-- Easy to use
-- Learning resources for students
+- Simple and easy to use
+- Useful learning resources for students
 
 ## Technologies Used
 
@@ -28,7 +28,7 @@ This project is made for students who want to learn new things and improve their
 
 ## Python Resource
 
-You can learn Python from here: [Python.org](https://www.python.org/)
+Students can learn Python from this website: [Python.org](https://www.python.org/)
 
 ## Image
 
@@ -57,6 +57,6 @@ You can learn Python from here: [Python.org](https://www.python.org/)
 
 ## Conclusion
 
-This is a beginner-level project which helps students learn about programming and web development. I have also used Markdown to make this README file.
+This is a basic project for beginners. It helps me practise web development and learn how to write a README file using Markdown. I have used different Markdown features like headings, lists, links, images, and tables.
 
 **GitHub Repository:** [Student Learning Portal](https://github.com/Tanmay337/Student-Learning-Portal)
